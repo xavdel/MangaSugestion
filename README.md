@@ -20,7 +20,7 @@ Then you can change in FileCode :
  for the analyses  (here 50)
 #define number 50
 
-// Number of user analyzed (The maxi first user in the FileData, here 1000)
+// Number of user analyzed (The maxi first user in the FileData, here 1000, up to 14530 in this version but take a lot of time)
 #define maxi 1000
 
 // Number of manga suggested 
